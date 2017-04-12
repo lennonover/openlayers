@@ -1,5 +1,5 @@
 ## 第一个地图
-用了官方例子来看
+
 
 <head>
   <link rel="stylesheet" href="https://openlayers.org/en/v4.0.1/css/ol.css">
