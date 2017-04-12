@@ -1,2 +1,1 @@
 # openlayers
-openlayers api

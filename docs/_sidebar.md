@@ -1,2 +1,4 @@
 - [首页](README)
-- [hello world](ch1/hello)
+- [hello GIS](ch1/hello)
+- [下载](ch1/down)
+- [API](ch1/api)
