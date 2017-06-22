@@ -1,4 +1,5 @@
 - [首页](README)
-- [hello GIS](ch1/hello)
+- [Hello GIS](ch1/hello)
 - [下载](ch1/down)
 - [API](ch1/api)
+- [地图组成](ch1/group)
